@@ -1,0 +1,21 @@
+S:\pro\wf_tridy_a_metody\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+S:\pro\wf_tridy_a_metody\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+S:\pro\wf_tridy_a_metody\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+S:\pro\wf_tridy_a_metody\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+S:\pro\wf_tridy_a_metody\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+S:\pro\wf_tridy_a_metody\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+S:\pro\wf_tridy_a_metody\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+S:\pro\wf_tridy_a_metody\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+S:\pro\wf_tridy_a_metody\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+S:\pro\wf_tridy_a_metody\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\pro\wf_tridy_a_metody - kopie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\pro\wf_tridy_a_metody - kopie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\pro\wf_tridy_a_metody - kopie\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\pro\wf_tridy_a_metody - kopie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\pro\wf_tridy_a_metody - kopie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\pro\wf_tridy_a_metody - kopie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\pro\wf_tridy_a_metody - kopie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\pro\wf_tridy_a_metody - kopie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\pro\wf_tridy_a_metody - kopie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\pro\wf_tridy_a_metody - kopie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\pro\wf_tridy_a_metody - kopie\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
